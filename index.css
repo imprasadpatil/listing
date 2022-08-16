@@ -1,0 +1,79 @@
+.container-fluid{
+    background-color: #fbfbfb;
+}
+.header{
+    background-color: crimson;
+    height: 80px;
+}
+.rounded-circle{
+    padding: auto;
+    border-color: #fff;
+    border-radius: 2cm;
+}
+#logo{
+    color: fff;
+}
+.createacc{
+    padding: auto;
+}
+.message{
+    color: #192f60; 
+    font-family: Poppins;
+    
+    padding-top: 2%;
+    padding-left: 3%;
+}
+.filtresection{
+    background-color: #fff;
+    font-family: Poppins;
+    font-size: 14px;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+    padding: auto;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  
+
+    
+}
+.titels{
+    font-family: Poppins;
+    color: #192f60;
+}
+.filters{
+    font-family: Poppins;
+    color: #192f60;
+}
+.cusins{
+    font-family: Poppins;
+    color: #8c96ab;
+}
+.cost{
+    font-family: Poppins;
+    color: #8c96ab;
+}
+.sort{
+    font-family: Poppins;
+    color: #8c96ab;
+}
+
+/* Filter results CSS starts here */
+.card{ 
+    border-radius: 0%; 
+    box-shadow: 0px 3px 3px 0px #dee2e6; 
+    margin-bottom: 10px; 
+    border-color: #fff; 
+} 
+ 
+.card-text{ 
+    color: #8c96ab; 
+    font-size: 20px; 
+} 
+
+/* Navigation Bar CSS Starts here */
+.navigation{
+    padding: auto;
+    color: #8c96ab; 
+    font-size: 20px; 
+    font-family: Poppins;
+}
